@@ -1,5 +1,5 @@
 
-// Reverse a number 
+// Write a program to reverse a number and use Scanner class
 package example;
 
 import java.util.*;

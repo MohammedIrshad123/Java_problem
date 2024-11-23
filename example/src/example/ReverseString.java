@@ -1,3 +1,5 @@
+// Write a program to reverse a string using Scanner class
+
 package example;
 
 import java.util.*;
