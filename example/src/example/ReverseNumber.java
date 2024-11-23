@@ -21,9 +21,9 @@ public class ReverseNumber {
 			        
 			}
 			
-			
 			System.out.println(rev);
 		}
 	}
 
+	
 }
