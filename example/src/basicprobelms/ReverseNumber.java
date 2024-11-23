@@ -1,6 +1,6 @@
 
 // Write a program to reverse a number and use Scanner class
-package example;
+package basicprobelms;
 
 import java.util.*;
 

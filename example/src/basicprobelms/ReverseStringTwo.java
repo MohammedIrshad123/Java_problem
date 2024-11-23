@@ -1,5 +1,5 @@
 // Write a program to reverse a string using string builder class
-package example;
+package basicprobelms;
 
 import java.io.*;
 import java.util.Scanner;
