@@ -1,5 +1,5 @@
 
-//Reverse a number
+// Reverse a number 
 package example;
 
 import java.util.*;
